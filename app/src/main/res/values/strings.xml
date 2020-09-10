@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nicolas Tomas - Coffee App A3</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="topping">`TOPPINGS</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="choc">Chocolate</string>
+    <string name="order_details">Your Order Details</string>
+    <string name="email_button">EMAIL ORDER</string>
+    <string name="addButton">Save data</string>
+</resources>
